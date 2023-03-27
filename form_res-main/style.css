@@ -1,0 +1,38 @@
+form{
+    font-family:Georgia ;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    border: 10px solid rgb(51, 0, 51) ;
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 300px;
+    color: darkblue;
+  border-radius: 5px;
+
+}
+
+h2{
+    color: black;
+    font-family:Times;
+}
+
+body{
+    text-align: justify;
+}
+
+
+#nex{
+    text-align: center;
+    border: 10px solid rgb(51, 0, 51) ;
+    font-family: 'times new roman';
+    background-image: url(img/ui.gif);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width: 100%;
+    height: 250px;
+    align-items: center;
+}
+
